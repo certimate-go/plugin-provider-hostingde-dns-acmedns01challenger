@@ -1,0 +1,7 @@
+{
+  "plugin.hostingde-dns.name": "hosting.de",
+  "plugin.hostingde-dns.description": "通过 hosting.de 完成 ACME DNS-01 验证。",
+  "plugin.hostingde-dns.access.apiKey.label": "hosting.de API Key",
+  "plugin.hostingde-dns.access.apiKey.tooltip": "这是什么？请参阅 <a href=\"https://www.hosting.de/api/#requests-and-authentication\" target=\"_blank\">https://www.hosting.de/api/#requests-and-authentication</a>",
+  "plugin.hostingde-dns.access.apiKey.placeholder": "请输入 hosting.de API Key"
+}

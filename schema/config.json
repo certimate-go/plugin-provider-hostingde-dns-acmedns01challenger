@@ -1,0 +1,8 @@
+{
+  "schemaVersion": "form/v1",
+  "provider": "hostingde-dns",
+  "category": "apply",
+  "schema": {
+    "columns": []
+  }
+}

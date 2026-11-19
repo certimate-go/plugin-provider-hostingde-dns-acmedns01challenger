@@ -1,0 +1,7 @@
+{
+  "plugin.hostingde-dns.name": "hosting.de",
+  "plugin.hostingde-dns.description": "ACME DNS-01 via hosting.de.",
+  "plugin.hostingde-dns.access.apiKey.label": "hosting.de API key",
+  "plugin.hostingde-dns.access.apiKey.tooltip": "For more information, see <a href=\"https://www.hosting.de/api/#requests-and-authentication\" target=\"_blank\">https://www.hosting.de/api/#requests-and-authentication</a>",
+  "plugin.hostingde-dns.access.apiKey.placeholder": "Please enter hosting.de API key"
+}
